@@ -8,26 +8,31 @@
 
 #import "ViewController.h"
 
+
 @interface ViewController ()
 
 @end
 
+
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
 
-- (void)didReceiveMemoryWarning {
+- (void)didReceiveMemoryWarning
+{
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
 
-- (void)test{
-    int a=31;
-    int bbbb=41;
-    int ccc=61;
+- (void)test
+{
+    int a    = 31;
+    int bbbb = 41;
+    int ccc  = 61;
 }
 @end
