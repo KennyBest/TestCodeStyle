@@ -34,5 +34,9 @@
     int a    = 31;
     int bbbb = 41;
     int ccc  = 61;
+
+    int mm     = 333;
+    int kkkkk  = 345;
+    int cckkks = 3456;
 }
 @end
