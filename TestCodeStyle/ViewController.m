@@ -26,8 +26,8 @@
 }
 
 - (void)test{
-    int a=3;
-    int bbbb=4;
-    int ccc=6;
+    int a=31;
+    int bbbb=41;
+    int ccc=61;
 }
 @end
