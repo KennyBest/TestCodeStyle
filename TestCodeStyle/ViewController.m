@@ -25,5 +25,9 @@
     // Dispose of any resources that can be recreated.
 }
 
-
+- (void)test{
+    int a=3;
+    int bbbb=4;
+    int ccc=6;
+}
 @end
